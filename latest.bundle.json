@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1-local",
+  "generatedAt": "2025-12-12T03:47:26.336Z",
+  "ttlHours": 24,
+  "integrity": {
+    "algorithm": "sha256",
+    "value": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "value": "zJp/4JtY+RfMdLuBQcDNJhtlk1JI9AgNaV/cKdnARopp7dDa+4t+lF90JCT+6tEndE05AHF7JH/doKDoFDMrAg=="
+  },
+  "rules": []
+}
